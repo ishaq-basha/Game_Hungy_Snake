@@ -1,0 +1,1 @@
+Creating a Snake game using HTML, CSS, and JavaScript involves several components. Below is a complete implementation that includes a basic structure for the game. This code will create a simple Snake game. To sharp your knowledge on the JavaScript.
